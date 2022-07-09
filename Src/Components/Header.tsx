@@ -17,11 +17,12 @@ export default function Header() {
         <a href="#home" className="active">
           Home
         </a>
+
         <a href="#news">Jobs</a>
         <a href="#contact">Post Jobs</a>
-
         <a href="#about">Chemist </a>
         <a href="#about">Register</a>
+
         <a href="javascript:void(0);" className="icon" onClick={myFunction}>
           <i className="fa fa-bars"></i>
         </a>
